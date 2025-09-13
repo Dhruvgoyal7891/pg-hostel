@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sunrise Hostel",
+    "location": "Vaishali Nagar, Jaipur",
+    "price": 6500,
+    "image": "https://via.placeholder.com/300x200"
+  },
+  {
+    "name": "Green Villa PG",
+    "location": "Malviya Nagar, Jaipur",
+    "price": 7500,
+    "image": "https://via.placeholder.com/300x200"
+  },
+  {
+    "name": "Blue Moon PG",
+    "location": "Mansarovar, Jaipur",
+    "price": 5500,
+    "image": "https://via.placeholder.com/300x200"
+  }
+]
